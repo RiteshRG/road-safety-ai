@@ -1,0 +1,8 @@
+{
+  "source": "Supplied ROAD_SAFETY_ASSIGNMENT_BUILD_SPEC.md (article summary)",
+  "countries": [
+    {"name":"India","fatalities_per_lakh":null,"licence_context":"The brief discusses a proposed increase in the licence-test pass mark from 60% to 75%.","note":"No comparable fatality rate is supplied in the brief; not shown here."},
+    {"name":"Vietnam","fatalities_per_lakh":14,"licence_context":"The brief reports a 95% licence-test pass mark.","note":"The comparison raises questions about the limits of test thresholds; it does not establish causation."},
+    {"name":"Singapore","fatalities_per_lakh":1.8,"licence_context":"No comparable licence-test pass mark is supplied in the brief.","note":"The outcome is reported for context; the brief does not isolate the causes of the difference."}
+  ]
+}

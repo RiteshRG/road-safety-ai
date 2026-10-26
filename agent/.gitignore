@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+sandbox/runs/*/
+output/*
+!sandbox/runs/.gitkeep
+!output/.gitkeep

@@ -1,0 +1,2 @@
+# Core agent uses only Python's standard library and Groq's OpenAI-compatible HTTP API.
+# Optional tracing: langsmith>=0.1
